@@ -63,7 +63,6 @@ li {
 #four_columns {
   font-family: 'Lora', serif;
   line-height:25px;
-  clear:both;
   width:auto;
   max-width:960px;
   padding:10px 0 10px 0;
@@ -73,7 +72,6 @@ li {
 #four_columns h2 {
   font-family: 'Lora', serif;
   font-size: 15px;
-  border-bottom: 1px solid #D6D0C1;
   margin-bottom: 10px;
   margin-top: 15px;
   padding-top: 0px;
@@ -81,15 +79,11 @@ li {
 }
 
 #four_columns .img-item {
-  font-family: 'Lora', serif;
   float:left;
-  margin-left: 0px;
-  padding: 0px;
   width: 198px;
   margin-left: 20px;
   margin-right: 20px;
   box-shadow: 5px 5px 3px #999;
-  color: #6699CC;
 
 }
 
@@ -101,7 +95,6 @@ li {
 #four_columns .img-item p {
   font-family: 'Lora', serif;
   font-size: 15px;
-  margin-left: 0.7em;
   color: #6699CC;
 }
 .image {
