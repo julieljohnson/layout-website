@@ -1,0 +1,40 @@
+<!doctype html>
+  <html>
+    <head>
+      <meta charset="UTF-8">
+      <link href='http://fonts.googleapis.com/css?family=Lora' rel='stylesheet' type='text/css'>
+      <link href='http://fonts.googleapis.com/css?family=Homemade+Apple' rel='stylesheet' type='text/css'>
+      <title> This is my title </title>
+        <link rel="stylesheet" href="training.css" >
+          <body>
+
+            <div id="wrapper">
+            <h1>Luna<div class="pawprint"><img src="images/pawprint.gif"/></div></h1>
+
+                <a href="Contact">Contact</a>
+                <a href="Training">Training</a>
+                <a href="index.html">Home</a>
+                  <img src="images/lunaps4.jpg" alt="luna" height="320px" width="960px" />
+
+
+                          <h2>Training | Diet</h2>
+                          <div class="column1"><h5>Training a Maltipoo is quite easy, provided the trainer is calm and caring. Maltipoos are highly intelligent but they are extremely sensitive as well. This crossbreed responds only to positive training methods. Harsh words, yelling or aggressive tactics will force the dog to shut down and cower hence, ruining the possibility of training. Yummy treats and excited praise will have the Maltipoo thrilled to start his training sessions and keep him interested in working too. Maltipoos can excel in obedience and agility settings. They also make great therapy dogs.</h5>
+                          </div>
+                          <div class="column2"><h5>Maltipoos are high-energy, small dogs and need a diet that is specifically formulated for them They should be fed high-quality, dry kibble. Dry kibble will help prevent a variety of oral health problems including gum infections, tooth loss and bad breath. Canned and other wet foods provide an optimum area for the growth of plaque which can cause dental issues.
+                           <ul>
+                                 <li>Blue Buffalo</li>
+                                 <li>Taste of the Wild</li>
+                                 <li>Bil Jac</li>
+                            </h5>
+                          </ul>
+                        </div>
+            <div class="column3"><a href="http://www.petguide.com/breeds/dog/maltipoo/"><blockquote>Click here for more training tips!</blockquote></a></div>
+
+                <footer>
+                  <p></p></footer>
+
+
+  </div>
+      </body>
+        </head>
+            </html>
