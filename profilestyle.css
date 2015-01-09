@@ -1,0 +1,148 @@
+* {
+  background-color:#B0B0B0;
+
+}
+
+h1 {
+  padding-left: 60px;
+  font-family: 'Over the Rainbow', cursive;
+  line-height: 20px;
+  color:#FF6666;
+  font-size: 50px;
+-webkit-animation-duration:3s;
+-webkit-animation-name: slidein;
+}
+@-webkit-keyframes slidein {
+  from {
+    margin-left: 100%;
+    width:300%;
+  }
+  to {
+    margin-left: 0%;
+    width:100%;
+  }
+h1:hover {
+  color:white;
+
+}
+}
+div .profilecard img {
+  border: solid none 3px;
+  background-color: #FFCCCC;
+  width: 200px;
+  height:200px;
+  border-radius: 15%;
+  -webkit-transition: width 2s height 2s background-color 2s, -webkit-transform 2s;
+  transition: width 2s, height 2s, background-color 2s, transform 2s;
+}
+div .card2 {
+  font-family: 'Quicksand', sans-serif;
+  color: #FF6666;
+  line-height: 40px;
+  text-align: center;
+  font-size: 25px;
+  border: solid none 3px;
+  background-color: #FFCCCC;
+  width: 200px;
+  height:200px;
+  border-radius: 15%;
+  -webkit-transition: width 2s height 2s background-color 2s, -webkit-transform 2s;
+  transition: width 2s, height 2s, background-color 2s, transform 2s;
+}
+div .card3 {
+  font-family: 'Quicksand', sans-serif;
+  color: #FF6666;
+  line-height: 40px;
+  text-align: center;
+  font-size: 25px;
+  border: solid none 3px;
+  background-color: #FFCCCC;
+  width: 200px;
+  height:200px;
+  border-radius: 15%;
+  -webkit-transition: width 2s height 2s background-color 2s, -webkit-transform 2s;
+  transition: width 2s, height 2s, background-color 2s, transform 2s;
+}
+div .card4 {
+  font-family: 'Quicksand', sans-serif;
+  color: #FF6666;
+  line-height: 40px;
+  text-align: center;
+  font-size: 25px;
+  border: solid none 3px;
+  background-color: #FFCCCC;
+  width: 200px;
+  height:200px;
+  border-radius: 15%;
+  -webkit-transition: width 2s height 2s background-color 2s, -webkit-transform 2s;
+  transition: width 2s, height 2s, background-color 2s, transform 2s;
+}
+
+div .profilecard:hover img:hover{
+  background-color: #FF9999;
+  width: 400px;
+  height:400px;
+  }
+div .card2:hover {
+  background-color: #FF9999;
+  color: white;
+  font-size: 60px;
+  line-height: 60px;
+  width: 400px;
+  height:400px;
+  }
+
+div .card3:hover{
+  background-color: #FF9999;
+  color:white;
+  font-size: 60px;
+  line-height: 60px;
+  width: 400px;
+  height:400px;
+  }
+
+div .card4:hover {
+  background-color: #FF9999;
+  color: white;
+  font-size: 60px;
+  line-height: 60px;
+  width: 400px;
+  height:400px;
+  }
+#profile {
+  font-family: 'Over the Rainbow', cursive;
+  padding-right: 80px;
+  font-size: 50px;
+  color: #FF6666;
+  text-align: right;
+  line-height: 80%;
+  margin-bottom: 80px;
+  -webkit-animation-duration:3s;
+  -webkit-animation-name: rotate;
+}
+@-webkit-keyframes rotate {
+  from {
+    -webkit-transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+#profile:hover {
+  -webkit-animation-name: rotate;
+  -webkit-animation-duration: 3s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+}
+
+
+}
+
+#wrapper {
+  max-width: 960px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-bottom: 30%;
+
+}
