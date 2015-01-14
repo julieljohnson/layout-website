@@ -2,10 +2,12 @@
   <html>
     <head>
       <meta charset="UTF-8">
+      <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
       <link href='http://fonts.googleapis.com/css?family=Lora' rel='stylesheet' type='text/css'>
       <link href='http://fonts.googleapis.com/css?family=Homemade+Apple' rel='stylesheet' type='text/css'>
       <title> This is my title </title>
         <link rel="stylesheet" href="training.css" >
+        <link rel="stylesheet" href="trainingresp.css"
           <body>
 
             <div id="wrapper">
@@ -14,7 +16,7 @@
                 <a href="Contact">Contact</a>
                 <a href="Training">Training</a>
                 <a href="index.html">Home</a>
-                  <img src="images/lunaps4.jpg" alt="luna" height="320px" width="960px" />
+                  <img src="images/lunaps4.jpg" alt="luna" height="335px" width="960px" />
 
 
                           <h2>Training | Diet</h2>

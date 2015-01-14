@@ -2,17 +2,19 @@
   <html>
     <head>
       <meta charset="UTF-8">
+      <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
       <link href='http://fonts.googleapis.com/css?family=Lora' rel='stylesheet' type='text/css'>
       <link href='http://fonts.googleapis.com/css?family=Homemade+Apple' rel='stylesheet' type='text/css'>
           <title> This is my title </title>
               <link rel="stylesheet" href="style2.css" >
+              <link rel="stylesheet" href="style2resp.css">
           <body>
             <div id="wrapper">
             <h1>Luna</h1>
                 <a href="Contact">Contact</a>
                 <a href="Training">Training</a>
                 <a href="index.html">Home</a>
-    <!--This form was from the HTML/CSS book by Jon Duckett-->      
+    <!--This form was from the HTML/CSS book by Jon Duckett-->
       <div id= "onecolumn-content">
           <h3><title>Contact</title>
           </head>
