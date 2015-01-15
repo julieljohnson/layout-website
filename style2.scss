@@ -1,0 +1,111 @@
+$font-lora: Lora, Serif;
+$font-apple: Homemade Apple, cursive;
+$color-teal: #6699CC;
+$color-blue: #33CCCC;
+
+
+
+
+
+* {
+  background-color: #CCFFFF;
+
+
+
+#wrapper {
+  max-width: 960px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-bottom: 30px;
+
+
+  h1 {
+      font-family: $font-lora;
+      color: $color-teal;
+      text-align: left;
+      display: inline;
+      font-size: 40px;
+  }
+  a {
+      text-decoration: none;
+      color: $color-teal;
+      margin: 1%;
+      float: right;
+
+      &:hover {
+          color: $color-blue;
+      }
+  }
+
+  img  {
+    width: 320px;
+    height: 335px;
+  }
+
+  h2 {
+      font-family: $font-apple;
+      font-size: 45;
+      color: $color-blue;
+      text-align:center;
+  }
+  #four_columns {
+      font-family: $font-lora;
+      line-height:25px;
+      width:auto;
+      max-width:960px;
+      padding:10px 0 10px 0;
+      color: #6699CC;
+
+      .img-item {
+          float:left;
+          width: 198px;
+          margin-left: 20px;
+          margin-right: 20px;
+          box-shadow: 5px 5px 3px #999;
+
+
+          h2 {
+              font-family: $font-lora;
+              font-size: 15px;
+              margin-bottom: 10px;
+              margin-top: 15px;
+              padding-top: 0px;
+              color: #6699CC;
+
+                  p {
+                      font-family: $font-lora;
+                      font-size: 15px;
+                      color: $color-teal;
+
+                      a {
+                          font-family: $font-lora;
+                          position:relative;
+                          display:block;
+
+                      }
+
+                  }
+
+          }
+
+      }
+
+  }
+
+
+  p {
+      color: $color-teal;
+      line-height: 20px;
+  }
+
+
+  footer {
+      margin: 1%;
+      width: 960px;
+      height:230px;
+      float: center;
+      border-bottom: solid #6699CC 2px;
+  }
+}
+
+}

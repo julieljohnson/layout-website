@@ -1,0 +1,87 @@
+$font-lora: Lora, Serif;
+$font-apple: Homemade Apple, cursive;
+$color-teal: #6699CC;
+$color-blue: #33CCCC;
+
+
+
+
+
+
+
+
+
+
+* {
+  background-color: #CCFFFF;
+
+#wrapper {
+  max-width: 960px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-bottom: 30px;
+
+  h1 {
+      font-family: $font-lora;
+      color: $color-teal;
+      text-align: left;
+      display: inline;
+      font-size: 60px;
+  }
+
+  .pawprint {
+      float: left;
+  }
+
+  a {
+      text-decoration: none;
+      color: $color-teal;
+      margin: 1%;
+      float: right;
+      text-align: bottom;
+
+      &:hover {
+          color: $color-blue;
+      }
+
+  }
+
+
+  h2 {
+      font-family: $font-lora;
+      color: $color-teal;
+  }
+
+  .column1, .column2, .column3 {
+      width: 300px;
+      float: left;
+      margin: 5px;
+      line-height: 20px;
+  }
+
+
+  div h5 {
+      font-family: $font-lora;
+      color:
+  }
+
+  blockquote {
+      font-family: $font-apple;
+      color: color-blue;
+      float:right;
+      font-size: 125%;
+      font-style: italic;
+      line-height: 25px;
+  }
+
+  footer {
+      margin: 1%;
+      width: 960px;
+      height:350px;
+      float: center;
+      border-bottom: solid $color-blue 2px;
+  }
+
+}
+
+}
